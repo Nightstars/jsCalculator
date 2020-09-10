@@ -1,0 +1,7 @@
+.container{width:500px;height:480px;text-align:center;border-radius:250px 250px 250px 250px; position: absolute; top:50%; left:50%; 
+margin-top:-240px;margin-left: -250px;background:#FFFFFF;bolder;font-family:"微软雅黑";color:#FFFFFF;background:#40E0D0;}
+.input1{width:300px;height:36px;background:white;border:2px solid #40e0d0;font-size:27px;font-weight:bold;}
+.button1{width:200px;height:36px;background:#1e90ff;border:0px solid #00fa9a;opacity:1;border-radius:15px 15px 15px 15px;font-size:24px;
+font-weight:bold;color:white;}
+.button2{width:100px;height:36px;background:#1e90ff;border:0px solid #00fa9a;opacity:1;border-radius:15px 15px 15px 15px;font-size:24px;
+font-weight:bold;color:white;}
